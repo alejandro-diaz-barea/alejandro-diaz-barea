@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently studying 
-- 🌱 I’m currently learning Kotlin
-- 💬 Ask me about nothing 
+- 🔭 I’m currently studying DAW
+- 🌱 I’m learning javascript
+- 💬 Ask me about nothing
 
